@@ -28,7 +28,7 @@ This project is a simple web application that fetches and displays jokes from th
 ### Installation
 1. Clone the repository:
 ```
-git clone ** https://github.com/MdShehabulIslam/My-API-Project.git **
+git clone  <https://github.com/MdShehabulIslam/My-API-Project.git>
 ```
 2. Navigate into the project directory:
 ```
@@ -45,11 +45,11 @@ npm install express axios ejs
 ```
 node app.js
 ```
-3. Open your browser and go to [http://localhost:3000] to view the application.
+3. Open your browser and go to http://localhost:3000 to view the application.
 
 ## Usage
 
-- Click the "Get Another Joke" button to fetch a new joke.
+- Click the "Get a Joke" button to fetch a new joke.
 - The application will display jokes in a structured format, ensuring that jokes containing explicit content are filtered out.
 
 ## Error Handling
