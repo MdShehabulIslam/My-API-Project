@@ -45,6 +45,10 @@ npm install express axios ejs
 ```
 node app.js
 ```
+OR
+```
+npm start
+```
 3. Open your browser and go to http://localhost:3000 to view the application.
 
 ## Usage
